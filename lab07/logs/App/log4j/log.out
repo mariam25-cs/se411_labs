@@ -1,0 +1,6 @@
+2026-09-30 10:44:42,707 INFO [edu.psu.se411.lab07.App.main()] edu.psu.se411.lab07.App - Application is starting...
+2026-09-30 10:44:42,709 ERROR [edu.psu.se411.lab07.App.main()] edu.psu.se411.lab07.App - InvalidArgumentException: Luggage weight 55.0 kg is outside 0-40 kg for booking B004
+2026-09-30 10:44:42,709 ERROR [edu.psu.se411.lab07.App.main()] edu.psu.se411.lab07.App - MissingInformationException: Luggage weight not provided for booking B005
+2026-09-30 10:44:42,709 ERROR [edu.psu.se411.lab07.App.main()] edu.psu.se411.lab07.App - InvalidArgumentException: Distance 2500.0 km is outside 1-2000 km for booking B006
+2026-09-30 10:44:42,710 ERROR [edu.psu.se411.lab07.App.main()] edu.psu.se411.lab07.App - MissingInformationException: Number of days not provided for booking B007
+2026-09-30 10:44:42,710 INFO [edu.psu.se411.lab07.App.main()] edu.psu.se411.lab07.App - Application is stopping...
